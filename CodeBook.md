@@ -76,5 +76,3 @@ The code run_analysis.R runs in the following order :
 
 
 
-
-
